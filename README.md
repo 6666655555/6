@@ -1,8 +1,9 @@
-<embed src="http://music.163.com/song/1297376983/?userid=590854430" hidden="true" autostart="true" loop="true"> 
+<iframe frameborder="0" border="1" 
+   marginwidth="0" marginheight="0" 
+   width=333 height=77 
+   src="http://music.163.com/song/1297376983/?userid=590854430">
+</iframe>
 
-<audio controls autoplay="autoplay" loop="loop">
-<source src="http://music.163.com/song/1297376983/?userid=590854430." type="audio/mpeg" />
-</audio>
 
 ## 此页面目的
    为了记录成长路上的心路历程，待以后看看自己这些年的变化，高考乃至大一之前，都是懵懂无知的状态，用自己的嘴说着别人的话，并以此为傲。
